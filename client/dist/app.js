@@ -87,7 +87,7 @@ var _App = function (_BaseComponent) {
     value: function componentDidMount() {
       {
         _index2.default.cloud.init({
-          env: 'env-8772f0', // 获取环境ID：前往 云开发控制台-设置-环境ID
+          env: 'eshop-0geh0ulu7bbbb4ca', // 获取环境ID：前往 云开发控制台-设置-环境ID
           traceUser: true // 是否要捕捉每个用户的访问记录。设置为true，用户可在管理端看到用户访问记录
         });
       }
